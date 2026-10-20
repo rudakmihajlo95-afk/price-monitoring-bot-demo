@@ -1,0 +1,50 @@
+2026-10-20 07:22:47 | INFO     | === Старт перевірки цін books.toscrape.com ===
+2026-10-20 07:22:47 | INFO     | Попередніх даних не знайдено (C:\Freelance_Projects\price_monitoring_bot_demo\output\prices.csv) — це перший запуск.
+2026-10-20 07:22:48 | INFO     | Запуск headless Chromium через Playwright (CDP)...
+2026-10-20 07:22:48 | INFO     | Відкриваю сторінку: https://books.toscrape.com/
+2026-10-20 07:22:50 | INFO     | Чекаю рендеринг списку товарів (article.product_pod)...
+2026-10-20 07:22:50 | INFO     | Знайдено 12 товар(и) для перевірки (ліміт 12).
+2026-10-20 07:22:51 | INFO     | Браузер закрито.
+2026-10-20 07:22:51 | INFO     | Виявлено 12 зміну(и) порівняно з попереднім запуском.
+2026-10-20 07:22:51 | INFO     |   🆕 A Light in the Attic: новий товар у списку (£51.77, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 Tipping the Velvet: новий товар у списку (£53.74, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 Soumission: новий товар у списку (£50.10, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 Sharp Objects: новий товар у списку (£47.82, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 Sapiens: A Brief History of Humankind: новий товар у списку (£54.23, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 The Requiem Red: новий товар у списку (£22.65, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 The Dirty Little Secrets of Getting Your Dream Job: новий товар у списку (£33.34, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull: новий товар у списку (£17.93, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics: новий товар у списку (£22.60, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 The Black Maria: новий товар у списку (£52.15, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 Starving Hearts (Triangular Trade Trilogy, #1): новий товар у списку (£13.99, In stock)
+2026-10-20 07:22:51 | INFO     |   🆕 Shakespeare's Sonnets: новий товар у списку (£20.66, In stock)
+2026-10-20 07:22:51 | INFO     | Збережено поточний результат: C:\Freelance_Projects\price_monitoring_bot_demo\output\prices.csv (12 рядків)
+2026-10-20 07:22:51 | INFO     | TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID не задані — демонстраційний режим, повідомлення виводиться в лог замість реальної відправки:
+2026-10-20 07:22:51 | INFO     | ---
+📊 Price Monitor: виявлено зміни
+
+🆕 A Light in the Attic: новий товар у списку (£51.77, In stock)
+🆕 Tipping the Velvet: новий товар у списку (£53.74, In stock)
+🆕 Soumission: новий товар у списку (£50.10, In stock)
+🆕 Sharp Objects: новий товар у списку (£47.82, In stock)
+🆕 Sapiens: A Brief History of Humankind: новий товар у списку (£54.23, In stock)
+🆕 The Requiem Red: новий товар у списку (£22.65, In stock)
+🆕 The Dirty Little Secrets of Getting Your Dream Job: новий товар у списку (£33.34, In stock)
+🆕 The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull: новий товар у списку (£17.93, In stock)
+🆕 The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics: новий товар у списку (£22.60, In stock)
+🆕 The Black Maria: новий товар у списку (£52.15, In stock)
+🆕 Starving Hearts (Triangular Trade Trilogy, #1): новий товар у списку (£13.99, In stock)
+🆕 Shakespeare's Sonnets: новий товар у списку (£20.66, In stock)
+---
+2026-10-20 07:22:51 | INFO     | === Завершено ===
+2026-10-20 07:22:51 | INFO     | === Старт перевірки цін books.toscrape.com ===
+2026-10-20 07:22:51 | INFO     | Завантажено 12 запис(и) з попереднього запуску.
+2026-10-20 07:22:52 | INFO     | Запуск headless Chromium через Playwright (CDP)...
+2026-10-20 07:22:53 | INFO     | Відкриваю сторінку: https://books.toscrape.com/
+2026-10-20 07:22:54 | INFO     | Чекаю рендеринг списку товарів (article.product_pod)...
+2026-10-20 07:22:54 | INFO     | Знайдено 12 товар(и) для перевірки (ліміт 12).
+2026-10-20 07:22:55 | INFO     | Браузер закрито.
+2026-10-20 07:22:55 | INFO     | Змін порівняно з попереднім запуском не виявлено.
+2026-10-20 07:22:55 | INFO     | Поточний результат архівовано як C:\Freelance_Projects\price_monitoring_bot_demo\output\prices_previous.csv.
+2026-10-20 07:22:55 | INFO     | Збережено поточний результат: C:\Freelance_Projects\price_monitoring_bot_demo\output\prices.csv (12 рядків)
+2026-10-20 07:22:55 | INFO     | === Завершено ===
